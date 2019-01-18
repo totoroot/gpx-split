@@ -1,5 +1,5 @@
 # ignore hidden directories
 .directory
 
-# ignore folder with input and output data
-data
+# ignore virtual environments
+env
